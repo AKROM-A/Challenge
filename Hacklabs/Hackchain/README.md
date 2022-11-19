@@ -7,11 +7,11 @@ Hackchain
 Blockchain
 
 ### Description
-_Hi! My name is Kong the King and the Kong!_
-_Welcome to the Hackchain!_
+_Hi! My name is Kong the King and the Kong!_  
+_Welcome to the Hackchain!_  
 
-Download the sol[/forplayer/Hackchain.sol]
-Download the abi[/forplayer/hacklabs.json]
+Download (the sol)[/forplayer/Hackchain.sol]  
+Download (the abi)[/forplayer/hacklabs.json]  
 
 Address : `0x4874d73bFF9B897c8d9D633A039D79Ba4301E4C0`
 
