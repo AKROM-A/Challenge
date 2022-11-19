@@ -16,4 +16,5 @@ Download:
 -[sol](/forplayer/Hackchain.sol)  
 -[abi](/forplayer/hacklabs.json)  
 
-Note: Use the same network as `Deeper Into the Network` Challenge.
+Note:  
+Use the same network as `Deeper Into the Network` Challenge.  

@@ -15,4 +15,5 @@ Contract Address : `0x000000000000000000000000000000000000dEaD`
 
 Flag Format : HACKLABS{Netwok_Token-on-that-day}
 
-`Note: remove the "," in the token-on-that-day( ex: 13,37133713371337 -> 1337133713371337 )`
+Note:  
+remove the "." in the token-on-that-day. ( ex: 13,37133713371337 -> 1337133713371337 )  
