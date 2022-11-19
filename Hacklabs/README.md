@@ -15,5 +15,5 @@ Blockchain is a fresh new Category for all CTF players in Indonesia. The Challen
 
 <h2 align="center">Information</h2>
 <div style="text-align: justify">
-    These are some of the first Blockchain Challenges I've ever created.   As always I'm still learning to give the best and unique challenge as always. :) 
+    These are some of the first Blockchain Challenges I've ever created.                                                        As always I'm still learning to give the best and unique challenge as always. :) 
 </div>
