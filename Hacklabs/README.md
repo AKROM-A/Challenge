@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="460" height="300" src=/asset/Hacklabs.png>
+  <img width="460" height="300" src="https://github.com/AKROM-A/Challenge/blob/main/Hacklabs/asset/Hacklabs.png">
 </p>
 
 Blockchain
