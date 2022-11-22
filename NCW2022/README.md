@@ -9,16 +9,16 @@ Download All Files:
 - [Space Artifacts](/NCW2022/forPlayer/Space_Artifacts.json)
 
 As for the flag format, because the challenge itself consist of 4 different contract, and the last part
-of the flag has the "}" included, the flag will look like this:
+of the flag has the "}" included, the flag will look like this:  
 
-For Example:
-flag 1 = ayamgoreng_itu_enak
-flag 2 = 1234567890
-flag 3 = ini_function
-flag 4 = ya_sisanya}
+For Example:  
+flag 1 = ayamgoreng_itu_enak  
+flag 2 = 1234567890  
+flag 3 = ini_function  
+flag 4 = ya_sisanya}  
 
-following the flag format described in SOLAR.sol
-format flag = NCW22{1_2_3_4
+following the flag format described in SOLAR.sol  
+format flag = NCW22{1_2_3_4  
 
-the final flag will look like this
-NCW22{ayamgoreng_itu_enak_1234567890_ini_function_ya_sisanya}
+the final flag will look like this  
+NCW22{ayamgoreng_itu_enak_1234567890_ini_function_ya_sisanya}  
