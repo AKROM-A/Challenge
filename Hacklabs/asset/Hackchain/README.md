@@ -14,7 +14,7 @@ Address : `0x4874d73bFF9B897c8d9D633A039D79Ba4301E4C0`
 
 Download:  
 -[sol](/forplayer/Hackchain.sol)  
--[abi](/forplayer/hacklabs.json)  
+-[abi](/forplayer/abi)  
 
 Note:  
 Use the same network as `Deeper Into the Network` Challenge.  
