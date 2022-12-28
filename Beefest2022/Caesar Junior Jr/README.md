@@ -1,7 +1,3 @@
-"My name is Sir Julius Junior Jr, My father 
-didn't do enough to secure our messages, 
-I decide to do better! Change my mind!"
-
 Caesar Junior Jr
 ============
 
