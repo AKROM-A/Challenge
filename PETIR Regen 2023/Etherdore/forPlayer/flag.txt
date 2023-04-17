@@ -1,0 +1,12 @@
+Flag Format:
+1. Address where 0.00074429 fee was used to
+2. Most Rewarding Block ( Fee Recipient )
+3. Token on that day ( do remove the ',' and '.' )
+
+The format should will look like this
+PETIR{1_2_3}
+
+so If you find 0xabc, 12345678 and 13.37,13371337
+The Final flag would look like :
+
+PETIR{0xabc_12345678_133713371337}
