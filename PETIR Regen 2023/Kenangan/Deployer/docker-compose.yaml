@@ -1,0 +1,10 @@
+version: '3'
+services:
+  kenangan:
+    image: kenangan
+    build: .
+    restart: always
+    environment:
+      - TERM=xterm
+    ports:
+      - "7024:7024"

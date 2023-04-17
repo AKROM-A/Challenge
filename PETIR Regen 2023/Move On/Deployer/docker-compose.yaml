@@ -1,0 +1,10 @@
+version: '3'
+services:
+  moveon:
+    image: moveon
+    build: .
+    restart: always
+    environment:
+      - TERM=xterm
+    ports:
+      - "9672:9672"

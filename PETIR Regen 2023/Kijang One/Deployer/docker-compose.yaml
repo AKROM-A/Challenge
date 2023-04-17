@@ -1,0 +1,10 @@
+version: '3'
+services:
+  kones:
+    image: kones
+    build: .
+    restart: always
+    environment:
+      - TERM=xterm
+    ports:
+      - "9691:9691"

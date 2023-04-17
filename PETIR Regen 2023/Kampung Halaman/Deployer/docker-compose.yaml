@@ -1,0 +1,10 @@
+version: '3'
+services:
+  halaman:
+    image: halaman
+    build: .
+    restart: always
+    environment:
+      - TERM=xterm
+    ports:
+      - "53214:53214"

@@ -1,0 +1,10 @@
+version: '3'
+services:
+  callme:
+    image: callme
+    build: .
+    restart: always
+    environment:
+      - TERM=xterm
+    ports:
+      - "42048:42048"
