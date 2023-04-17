@@ -5,8 +5,8 @@ In 2022 Human race finally fullfil their dream to live in space, but there are 3
 visisted all planets in the Milky Way, our SOLAR SYSTEM?
 
 Download All Files:
-- [SOLAR.sol](/NCW2022/forPlayer/SOLAR.sol)
-- [Space Artifacts](/NCW2022/forPlayer/Space_Artifacts.json)
+- [SOLAR.sol](./SOLAR%20SYSTEM/forPlayer/SOLAR.sol)
+- [Space Artifacts](./SOLAR%20SYSTEM/forPlayer/Space_Artifacts.json)
 
 As for the flag format, because the challenge itself consist of 4 different contract, and the last part
 of the flag has the "}" included, the flag will look like this:  
